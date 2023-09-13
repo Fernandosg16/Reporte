@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper{
+  width : 1200px;
+  margin: 10px auto;
+  height: auto;
+  border: 1px dashed red;
+  padding: 5px;  
+}
+
+header{
+    width: 1150px;
+    margin: 0 auto;
+    height: 100px;
+    border: 1px dashed blueviolet;
+}
+
+#img-cuadro{
+    width: 100px;
+    height: 80px;
+    margin: 3px;
+    padding: 5px;
+    border: 1px solid goldenrod;
+    float: left;
+}
+
+#title-header{
+    width: 1010px;
+    height: 80px;
+    margin: 3px;
+    padding: 5px;
+    border: 1px solid black;
+    float: right;
+}
+
+#img-rick{
+    width: 190px;
+    height: 80px;
+    margin: 3px;
+    padding: 5px;
+    border: 1px solid crimson;
+    float: left;
+}
+
