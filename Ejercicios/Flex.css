@@ -47,10 +47,6 @@ img{
     height: 100%;
     object-fit: cover;
 
-    /* width: 300px;
-    height: 300px;
-    object-fit: cover;
-    object-position: center; */
 }
 /*  .elemento{
     flex: auto;
@@ -63,18 +59,3 @@ img{
     border: 2px solid black;
 
 }  */
-
-/* @media screen and (min-width:625px) and (max-width:710px){
-    .contenedor{
-        width: 90px;
-        height: 90px;
-    }
-    .img{
-        width: 88px;
-        height: 88px;
-    }
-    
-}  */
-
- 
-
